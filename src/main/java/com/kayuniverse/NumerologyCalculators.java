@@ -118,7 +118,7 @@ public class NumerologyCalculators {
                                 }
                                 if (addMe2 <= 10) {
 
-                                    System.out.println("Final Value: " + addMe2);
+                                    System.out.println("\nFinal Value: " + addMe2 + "\n");
 
                                 } else {
 
@@ -140,7 +140,7 @@ public class NumerologyCalculators {
 
                                     if (addMe3 <= 10) {
 
-                                        System.out.println("Final Value: " + addMe3);
+                                        System.out.println("\nFinal Value: " + addMe3 + "\n");
 
 
                                     }  else {
@@ -162,7 +162,7 @@ public class NumerologyCalculators {
                                         }
                                         if (addMe4 <= 10) {
 
-                                            System.out.println("Final Value: " + addMe4);
+                                            System.out.println("\nFinal Value: " + addMe4 + "\n");
 
 
                                         }
@@ -263,7 +263,7 @@ public class NumerologyCalculators {
                                     }
                                     if (addMe2 <= 10) {
 
-                                        System.out.println("Final Value: " + addMe2);
+                                        System.out.println("\nFinal Value: " + addMe2+ "\n");
 
                                     } else {
 
@@ -284,7 +284,7 @@ public class NumerologyCalculators {
 
                                         if (addMe3 <= 10) {
 
-                                            System.out.println("Final Value: " + addMe3);
+                                            System.out.println("\nFinal Value: " + addMe3 + "\n");
 
 
                                         }  else {
@@ -305,7 +305,7 @@ public class NumerologyCalculators {
                                             }
                                             if (addMe4 <= 10) {
 
-                                                System.out.println("Final Value: " + addMe4);
+                                                System.out.println("\nFinal Value: " + addMe4 + "\n");
 
 
                                             }
